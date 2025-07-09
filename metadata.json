@@ -1,0 +1,9 @@
+{
+  "name": "RENZA Planejados App",
+  "description": "A mobile-first web application for RENZA Planejados to manage furniture assembly, client signatures, and issue reporting, featuring media capture capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "prompt": ""
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359534828585",
+    "project_id": "renza-planejados-app",
+    "storage_bucket": "renza-planejados-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359534828585:android:4848f854da88ba8bc71038",
+        "android_client_info": {
+          "package_name": "com.renzaplanejados.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359534828585-fnrnl87n9g9oeh5l4o4nf9t417pma0p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBYKZOCED1f2Ts_m5sc7LKVzCYkZAj5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359534828585-fnrnl87n9g9oeh5l4o4nf9t417pma0p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
