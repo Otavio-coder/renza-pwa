@@ -1,0 +1,21 @@
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #fff;
+  color: #000;
+}
+
+button {
+  padding: 8px 12px;
+  font-weight: bold;
+  border: 1px solid #000;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+input {
+  padding: 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
